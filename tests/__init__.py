@@ -1,0 +1,1 @@
+"""SkillGraph AI – tests package."""

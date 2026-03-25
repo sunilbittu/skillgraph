@@ -1,0 +1,320 @@
+{
+  "skills": {
+    "HTML": {
+      "description": "HyperText Markup Language – structure of web pages",
+      "category": "Web Frontend",
+      "level": "beginner"
+    },
+    "CSS": {
+      "description": "Cascading Style Sheets – styling web pages",
+      "category": "Web Frontend",
+      "level": "beginner"
+    },
+    "JavaScript": {
+      "description": "Dynamic scripting language for the web",
+      "category": "Web Frontend",
+      "level": "beginner"
+    },
+    "TypeScript": {
+      "description": "Typed superset of JavaScript",
+      "category": "Web Frontend",
+      "level": "intermediate"
+    },
+    "React": {
+      "description": "JavaScript library for building user interfaces",
+      "category": "Web Frontend",
+      "level": "intermediate"
+    },
+    "Vue": {
+      "description": "Progressive JavaScript framework",
+      "category": "Web Frontend",
+      "level": "intermediate"
+    },
+    "Angular": {
+      "description": "TypeScript-based web application framework",
+      "category": "Web Frontend",
+      "level": "intermediate"
+    },
+    "Node.js": {
+      "description": "JavaScript runtime built on Chrome V8 engine",
+      "category": "Web Backend",
+      "level": "intermediate"
+    },
+    "Express.js": {
+      "description": "Minimal Node.js web application framework",
+      "category": "Web Backend",
+      "level": "intermediate"
+    },
+    "Python": {
+      "description": "High-level general-purpose programming language",
+      "category": "Programming",
+      "level": "beginner"
+    },
+    "Flask": {
+      "description": "Lightweight Python web framework",
+      "category": "Web Backend",
+      "level": "intermediate"
+    },
+    "Django": {
+      "description": "Full-featured Python web framework",
+      "category": "Web Backend",
+      "level": "intermediate"
+    },
+    "FastAPI": {
+      "description": "Modern, fast Python web framework",
+      "category": "Web Backend",
+      "level": "intermediate"
+    },
+    "SQL": {
+      "description": "Structured Query Language for relational databases",
+      "category": "Database",
+      "level": "beginner"
+    },
+    "MySQL": {
+      "description": "Popular open-source relational database",
+      "category": "Database",
+      "level": "intermediate"
+    },
+    "PostgreSQL": {
+      "description": "Advanced open-source relational database",
+      "category": "Database",
+      "level": "intermediate"
+    },
+    "MongoDB": {
+      "description": "NoSQL document database",
+      "category": "Database",
+      "level": "intermediate"
+    },
+    "Redis": {
+      "description": "In-memory data structure store / cache",
+      "category": "Database",
+      "level": "intermediate"
+    },
+    "Git": {
+      "description": "Distributed version control system",
+      "category": "DevOps",
+      "level": "beginner"
+    },
+    "GitHub": {
+      "description": "Web platform for Git-based collaboration",
+      "category": "DevOps",
+      "level": "beginner"
+    },
+    "Docker": {
+      "description": "Platform for containerising applications",
+      "category": "DevOps",
+      "level": "intermediate"
+    },
+    "Kubernetes": {
+      "description": "Container orchestration system",
+      "category": "DevOps",
+      "level": "advanced"
+    },
+    "Linux": {
+      "description": "Open-source operating system / CLI",
+      "category": "DevOps",
+      "level": "beginner"
+    },
+    "CI/CD": {
+      "description": "Continuous Integration and Continuous Delivery practices",
+      "category": "DevOps",
+      "level": "intermediate"
+    },
+    "AWS": {
+      "description": "Amazon Web Services cloud platform",
+      "category": "Cloud",
+      "level": "intermediate"
+    },
+    "GCP": {
+      "description": "Google Cloud Platform",
+      "category": "Cloud",
+      "level": "intermediate"
+    },
+    "Azure": {
+      "description": "Microsoft Azure cloud platform",
+      "category": "Cloud",
+      "level": "intermediate"
+    },
+    "REST APIs": {
+      "description": "Representational State Transfer API design",
+      "category": "Web Backend",
+      "level": "intermediate"
+    },
+    "GraphQL": {
+      "description": "Query language for APIs",
+      "category": "Web Backend",
+      "level": "intermediate"
+    },
+    "Machine Learning": {
+      "description": "Algorithms that learn patterns from data",
+      "category": "AI/ML",
+      "level": "intermediate"
+    },
+    "Deep Learning": {
+      "description": "Neural network-based machine learning",
+      "category": "AI/ML",
+      "level": "advanced"
+    },
+    "NumPy": {
+      "description": "Numerical computing library for Python",
+      "category": "Data Science",
+      "level": "beginner"
+    },
+    "Pandas": {
+      "description": "Data analysis and manipulation library",
+      "category": "Data Science",
+      "level": "beginner"
+    },
+    "Matplotlib": {
+      "description": "Plotting library for Python",
+      "category": "Data Science",
+      "level": "beginner"
+    },
+    "Scikit-learn": {
+      "description": "Machine learning library for Python",
+      "category": "AI/ML",
+      "level": "intermediate"
+    },
+    "TensorFlow": {
+      "description": "Open-source machine learning framework",
+      "category": "AI/ML",
+      "level": "advanced"
+    },
+    "PyTorch": {
+      "description": "Dynamic deep learning framework",
+      "category": "AI/ML",
+      "level": "advanced"
+    },
+    "OOP": {
+      "description": "Object-Oriented Programming principles",
+      "category": "Programming",
+      "level": "beginner"
+    },
+    "Data Structures": {
+      "description": "Arrays, linked lists, trees, graphs, etc.",
+      "category": "Programming",
+      "level": "beginner"
+    },
+    "Algorithms": {
+      "description": "Sorting, searching, dynamic programming, etc.",
+      "category": "Programming",
+      "level": "intermediate"
+    },
+    "System Design": {
+      "description": "Designing scalable and reliable systems",
+      "category": "Architecture",
+      "level": "advanced"
+    },
+    "Java": {
+      "description": "Object-oriented, platform-independent language",
+      "category": "Programming",
+      "level": "beginner"
+    },
+    "Spring Boot": {
+      "description": "Java framework for building microservices",
+      "category": "Web Backend",
+      "level": "intermediate"
+    },
+    "C++": {
+      "description": "High-performance systems programming language",
+      "category": "Programming",
+      "level": "intermediate"
+    },
+    "Cybersecurity": {
+      "description": "Protecting systems and networks from attacks",
+      "category": "Security",
+      "level": "intermediate"
+    },
+    "Networking": {
+      "description": "TCP/IP, DNS, HTTP, protocols",
+      "category": "Infrastructure",
+      "level": "beginner"
+    }
+  },
+  "dependencies": {
+    "CSS": ["HTML"],
+    "JavaScript": ["HTML", "CSS"],
+    "TypeScript": ["JavaScript"],
+    "React": ["JavaScript", "HTML", "CSS"],
+    "Vue": ["JavaScript", "HTML", "CSS"],
+    "Angular": ["TypeScript", "HTML", "CSS"],
+    "Node.js": ["JavaScript"],
+    "Express.js": ["Node.js", "REST APIs"],
+    "Flask": ["Python", "REST APIs"],
+    "Django": ["Python", "SQL"],
+    "FastAPI": ["Python", "REST APIs"],
+    "MySQL": ["SQL"],
+    "PostgreSQL": ["SQL"],
+    "MongoDB": ["OOP"],
+    "Redis": ["SQL"],
+    "GitHub": ["Git"],
+    "Docker": ["Linux", "Git"],
+    "Kubernetes": ["Docker", "Linux"],
+    "CI/CD": ["Git", "Docker"],
+    "AWS": ["Linux", "Networking"],
+    "GCP": ["Linux", "Networking"],
+    "Azure": ["Linux", "Networking"],
+    "GraphQL": ["REST APIs", "JavaScript"],
+    "Machine Learning": ["Python", "NumPy", "Pandas", "Scikit-learn"],
+    "Deep Learning": ["Machine Learning", "NumPy"],
+    "NumPy": ["Python"],
+    "Pandas": ["Python", "NumPy"],
+    "Matplotlib": ["Python", "NumPy"],
+    "Scikit-learn": ["Python", "NumPy", "Pandas"],
+    "TensorFlow": ["Python", "Deep Learning"],
+    "PyTorch": ["Python", "Deep Learning"],
+    "OOP": ["Python"],
+    "Algorithms": ["Data Structures"],
+    "Data Structures": ["OOP"],
+    "System Design": ["Algorithms", "Networking", "AWS"],
+    "Spring Boot": ["Java", "REST APIs"],
+    "Cybersecurity": ["Networking", "Linux"]
+  },
+  "career_paths": {
+    "Full Stack Developer": {
+      "required_skills": ["HTML", "CSS", "JavaScript", "React", "Node.js", "Express.js", "SQL", "MongoDB", "Git", "REST APIs"],
+      "optional_skills": ["TypeScript", "Docker", "AWS", "GraphQL"],
+      "description": "Develops both frontend and backend of web applications"
+    },
+    "Frontend Developer": {
+      "required_skills": ["HTML", "CSS", "JavaScript", "React", "Git", "REST APIs"],
+      "optional_skills": ["TypeScript", "Vue", "Angular", "GraphQL"],
+      "description": "Builds user-facing web interfaces"
+    },
+    "Backend Developer": {
+      "required_skills": ["Python", "Flask", "SQL", "REST APIs", "Git", "Docker"],
+      "optional_skills": ["Django", "FastAPI", "PostgreSQL", "Redis", "AWS"],
+      "description": "Builds server-side logic and APIs"
+    },
+    "Data Scientist": {
+      "required_skills": ["Python", "NumPy", "Pandas", "Matplotlib", "Machine Learning", "Scikit-learn", "SQL"],
+      "optional_skills": ["Deep Learning", "TensorFlow", "PyTorch", "AWS"],
+      "description": "Extracts insights from data using statistical and ML techniques"
+    },
+    "ML Engineer": {
+      "required_skills": ["Python", "NumPy", "Pandas", "Machine Learning", "Deep Learning", "TensorFlow", "Docker"],
+      "optional_skills": ["PyTorch", "AWS", "Kubernetes", "FastAPI"],
+      "description": "Builds and deploys machine learning models at scale"
+    },
+    "DevOps Engineer": {
+      "required_skills": ["Linux", "Git", "Docker", "Kubernetes", "CI/CD", "AWS", "Networking"],
+      "optional_skills": ["GCP", "Azure", "Python", "Cybersecurity"],
+      "description": "Manages infrastructure, automation, and deployment pipelines"
+    },
+    "Cloud Engineer": {
+      "required_skills": ["Linux", "Networking", "AWS", "Docker", "Git"],
+      "optional_skills": ["Kubernetes", "GCP", "Azure", "CI/CD"],
+      "description": "Designs and manages cloud infrastructure"
+    },
+    "Java Developer": {
+      "required_skills": ["Java", "OOP", "Data Structures", "SQL", "Spring Boot", "Git"],
+      "optional_skills": ["Docker", "Algorithms", "REST APIs"],
+      "description": "Builds enterprise-grade applications with Java"
+    },
+    "Cybersecurity Analyst": {
+      "required_skills": ["Networking", "Linux", "Cybersecurity", "Git"],
+      "optional_skills": ["Python", "Docker", "AWS"],
+      "description": "Protects systems and networks from threats"
+    }
+  }
+}
